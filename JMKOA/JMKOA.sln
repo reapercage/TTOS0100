@@ -3,9 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JMKOA", "JMKOA\JMKOA.csproj", "{CE0A87BF-FF25-4AC2-910A-9539F3A110AF}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "IMG", "IMG", "{D16DF4DF-A81B-446E-8048-2F7DF96027A8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IMG", "JMKOA\IMG.csproj", "{CE0A87BF-FF25-4AC2-910A-9539F3A110AF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
